@@ -70,3 +70,14 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+ITCS_5231_Game/Assets/Animations/Enemies/Goblin_Controller.controller
+ITCS_5231_Game/Library/PackageCache/com.unity.burst@1.6.6/.Runtime/burst-llvm-10.dll
+*.dll
+*.bin
+*.dylib
+*.a
+*.so
+*.txt
+*.meta
+ITCS_5231_Game/Library/PackageCache/com.unity.burst@1.6.6/Runtime/BurstCompilerOptions.cs
+*.asmref
